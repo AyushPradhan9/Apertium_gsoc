@@ -5,10 +5,10 @@ The coding challenge was completed by taking in mind that the alphabetic charact
 The classify-symbols.cpp was compiled with -
 `g++ -o classify-symbols classify-symbols.cpp 'pkg-config --cflags icu-uc icu-io --libs'`
 ## Test Example
-- Input - 
+### Input - 
 echo "This! Is a tešt тест ** % test." | ./classify-symbols
 
-- Output - 
+### Output - 
 - C T
 - C h
 - C i
@@ -37,6 +37,6 @@ echo "This! Is a tešt тест ** % test." | ./classify-symbols
 - X  
 - C t
 - C e
--C s
+- C s
 - C t
 - X .
