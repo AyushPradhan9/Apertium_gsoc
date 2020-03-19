@@ -9,34 +9,34 @@ The classify-symbols.cpp was compiled with -
 echo "This! Is a tešt тест ** % test." | ./classify-symbols
 
 - Output - 
-C T
-C h
-C i
-C s
-X !
-X  
-C I
-C s
-X  
-C a
-X  
-C t
-C e
-C š
-C t
-X  
-C т
-C е
-C с
-C т
-X  
-X *
-X *
-X  
-X %
-X  
-C t
-C e
-C s
-C t
-X .
+- C T
+- C h
+- C i
+- C s
+- X !
+- X  
+- C I
+- C s
+- X  
+- C a
+- X  
+- C t
+- C e
+- C š
+- C t
+- X  
+- C т
+- C е
+- C с
+- C т
+- X  
+- X *
+- X *
+- X  
+- X %
+- X  
+- C t
+- C e
+-C s
+- C t
+- X .
